@@ -5,7 +5,7 @@
 import random
 
 a = random.randint(0, 1000)
-print(a)
+# print(a)
 attempt = 10
 print('Загадано число. Для того, чтобы его разгадать, у Вас имеется 10 попыток.')
 for i in range(0, attempt-1):
